@@ -1,0 +1,29 @@
+{
+  "id": 123,
+  "locationId": "testsupercharger",
+  "name": "Test name",
+  "status": "OPEN",
+  "address": {
+    "street": "Test street",
+    "city": "Test city",
+    "state": "Test state",
+    "zip": "Test zip",
+    "countryId": 456,
+    "country": "Test country",
+    "regionId": 789,
+    "region": "Test region"
+  },
+  "gps": {
+    "latitude": 0.012,
+    "longitude": 1.120
+  },
+  "dateOpened": "2019-12-07",
+  "stallCount": 12,
+  "counted": true,
+  "elevationMeters": 42,
+  "powerKilowatt": 300,
+  "solarCanopy": false,
+  "battery": false,
+  "statusDays": 0,
+  "urlDiscuss": false
+}

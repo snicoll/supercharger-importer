@@ -1,0 +1,20 @@
+{
+  "id": 123,
+  "locationId": "testsupercharger",
+  "name": "Test name",
+  "status": "OPEN",
+  "address": {
+    "street": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "countryId": null,
+    "country": null,
+    "regionId": null,
+    "region": null
+  },
+  "gps": {
+    "latitude": 0.012,
+    "longitude": 1.120
+  }
+}
