@@ -1,0 +1,27 @@
+= Supercharger importer
+
+This small project helps importing Supercharger metadata from https://supercharge.info/.
+At the moment, only a https://docs.teslamate.org/docs/faq/#what-is-the-geo-fence-feature-for[Teslmate Geo-Fences] query builder is provided.
+
+This is working in progress with no easy way to customize filters and output.
+
+== Building from Source
+You need Java 11 and a bash-like shell.
+Invoke the build at the root of the project:
+
+[indent=0]
+----
+    $ ./mvnw clean install
+----
+
+== Running
+Invoke the following to run `SampleRunner`:
+
+[indent=0]
+----
+    $ ./mvnw spring-boot:run
+----
+
+== License
+Supercharger importer is Open Source software released under the
+https://www.apache.org/licenses/LICENSE-2.0.html[Apache 2.0 license].
