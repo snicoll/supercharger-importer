@@ -53,7 +53,7 @@ public class SampleRunner implements ApplicationRunner {
 	 * @return the name to use for that supercharger
 	 */
 	private String determineName(Supercharger supercharger) {
-		return "Supercharger " + supercharger.getAddress().getCity();
+		return "⚡️Supercharger " + supercharger.getAddress().getCity();
 	}
 
 	/**
