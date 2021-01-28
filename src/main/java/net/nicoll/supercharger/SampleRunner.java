@@ -63,7 +63,7 @@ public class SampleRunner implements ApplicationRunner {
 	 * @return the charging fee to use for that supercharger
 	 */
 	private Double determineFeeKwh(Supercharger supercharger) {
-		return 0.3388d;
+		return 0.2975d;
 	}
 
 	// Online
