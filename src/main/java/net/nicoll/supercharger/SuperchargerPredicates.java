@@ -5,7 +5,7 @@ import java.util.function.Predicate;
 import net.nicoll.supercharger.Supercharger.Status;
 
 /**
- * Useful {@link Predicate} to filter {@link Supercharger superchargs}.
+ * Useful {@link Predicate} to filter {@link Supercharger superchargers}.
  *
  * @author Stephane Nicoll
  */
